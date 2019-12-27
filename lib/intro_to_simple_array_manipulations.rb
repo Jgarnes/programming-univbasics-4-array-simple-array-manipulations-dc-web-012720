@@ -39,4 +39,4 @@ def using_flatten(Array)
 end
 
 def using_delete(Array, String)
-  
+  Array.delete(String)
