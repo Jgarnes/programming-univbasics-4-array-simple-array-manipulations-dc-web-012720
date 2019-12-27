@@ -35,4 +35,8 @@ def using_uniq(Array)
 end 
 
 def using_flatten(Array)
+  Array.flatten 
+end
+
+def using_delete(Array, String)
   
