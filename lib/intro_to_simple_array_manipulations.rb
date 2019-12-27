@@ -1,1 +1,1 @@
-array.push(array,string)
+array.push(Array,String)
