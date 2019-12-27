@@ -40,3 +40,7 @@ end
 
 def using_delete(Array, String)
   Array.delete(String)
+end
+
+def using_delete_at(Array, Integer)
+  Array.delete_at(Integer)
